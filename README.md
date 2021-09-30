@@ -1,9 +1,7 @@
 # About Me
 Welcome to my website. I am Gelareh Meidanipour Lahijany, PhD student in an interdeciplinary field of software engineering and AI. I like data science and analytics. My research interests are: Machine Learning, Natural Language Processing and Sentiment Analysis, Graph-based Deep Learning, Data Visualization and Analysis.   
 
-***project website:***
-
-[IdentiBug](https://pi.informatik.uni-siegen.de/projects/identibug/smc21/index.html)
+***project website:*** [IdentiBug](https://pi.informatik.uni-siegen.de/projects/identibug/smc21/index.html)
 
 ***presentations:***
 
